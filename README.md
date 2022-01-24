@@ -18,6 +18,16 @@ La planification, implémentation et contrôle des activités qui appliquent des
 </ol>
 
 ## 3.- Principes qui doivent guider un système de gestion de la qualité de la donnée
+<ul>
+  <li>Criticité: </li>
+  <li>Gestion du cycle de vie</li>
+  <li>Prevention</li>
+  <li>Correctrion d'erreurs de base</li>
+  <li>Governance</li>
+  <li>Conduit par les standards</li>
+  
+</ul>
+    
 
 
     
