@@ -1,4 +1,4 @@
-# Data-Quality
+<h1> Data-Quality </h1>
 Data Quality Chapter DM-BOK
 
 <p align="center">
