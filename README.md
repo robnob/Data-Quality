@@ -65,8 +65,25 @@ Le term "dimension" est utilisé pour la rélier à une mesure physique, c'est u
       <li>Reputation</li>
     </ul>
   <li>Contextual:</li>
+  <ul>
+      <li>Valeur ajoutée</li>
+      <li>Relevance</li>
+      <li>Opportunité</li>
+      <li>Completitud</li>
+      <li>Quantité de données correcte</li>
+    </ul>
   <li>DQ Representationel:</li>
+    <ul>
+      <li>Interpretabilité</li>
+      <li>De facile comprehension</li>
+      <li>Consistent</li>
+      <li>Concise</li>
+    </ul>
   <li>DQ d'accesibilité:</li>
+    <ul>
+      <li>Accesibilité</li>
+      <li>Sécurité de l'accès</li>
+    </ul>
 </ul>
 
 #### 1.4.4.- Metadata
