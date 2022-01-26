@@ -44,6 +44,14 @@ La planification, implémentation et contrôle des activités qui appliquent des
 La data est considerée de haute qualité si elle répond aux attentes des consommateurs. 
 Il faut faire la différence entre qualité haute/basse et les activités/efforts de DQ
 #### 1.4.2.- Donnée critique
+La criticalité de la data peut être evalué selon si elle est demandé par:
+<ul>
+  <li>Reports reguliers</li>
+  <li>Reports financiers</li>
+  <li>Les politiques du business</li>
+  <li>Opérations currents</li>
+  <li>La direction à la estratégie</li>
+</ul>
 #### 1.4.3.- Dimensions de la DQ
 #### 1.4.4.- Metadata
 #### 1.4.5.- ISO Standard
