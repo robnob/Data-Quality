@@ -55,35 +55,14 @@ La criticalité de la data peut être evalué selon si elle est demandé par:
 </ul>
 
 #### 1.4.3.- Dimensions de la DQ
-Le term "dimension" est utilisé pour la rélier à une mesure physique, c'est une caracteristique mesurable de la data. 15 dimensions dans 4 différents categories:
+Le term "dimension" est utilisé pour la rélier à une mesure physique, c'est une caracteristique mesurable de la data:
 <ul>
-  <li>DQ Intrinsique:</li>
-    <ul>
-      <li>Exactitud</li>
-      <li>Objectivité</li>
-      <li>Credibilité</li>
-      <li>Reputation</li>
-    </ul>
-  <li>Contextual:</li>
-  <ul>
-      <li>Valeur ajoutée</li>
-      <li>Relevance</li>
-      <li>Opportunité</li>
-      <li>Completitud</li>
-      <li>Quantité de données correcte</li>
-    </ul>
-  <li>DQ Representationel:</li>
-    <ul>
-      <li>Interpretabilité</li>
-      <li>De facile comprehension</li>
-      <li>Consistent</li>
-      <li>Concise</li>
-    </ul>
-  <li>DQ d'accesibilité:</li>
-    <ul>
-      <li>Accesibilité</li>
-      <li>Sécurité de l'accès</li>
-    </ul>
+  <li>Completitude: la proportion de la donné stocké contre le potentiel 100%</li>
+  <li>Unicité: aucune entité serait enregistré plus d'une fois basé sur comment elle est identifiée</li>
+  <li>Opportunité: le degrée de répresentation de la donnée à une date quelconque</li>
+  <li>Validité: la donnée est valide si elle est conforme à la syntax décrite dans sa définition</li>
+  <li>Exactitud: le degré auquel la donnée décrit correctement le "monde réel"</li>
+  <li>Consistence: l'absence de différence en comparant deux ou plus de répreentations d'un objet contre sa définition</li> 
 </ul>
 
 #### 1.4.4.- Metadata
