@@ -42,6 +42,21 @@ La planification, implémentation et contrôle des activités qui appliquent des
 #### 1.4.1.- Qualité de la donnée
 #### 1.4.2.- Donnée critique
 #### 1.4.3.- Dimensions de la DQ
+#### 1.4.4.- Metadata
+#### 1.4.5.- ISO Standard
+#### 1.4.6.- Cycle de Vie
+#### 1.4.7.- Types de régles
+#### 1.4.8.- Causes communs des problèmes
+##### 1.4.8.1- Manque de direction
+##### 1.4.8.2.- Entrée des données
+##### 1.4.8.3.- Traitement
+##### 1.4.8.4.- Design du système
+##### 1.4.8.5.- Correction des problèmes
+
+
+
+
+
 
 
 
