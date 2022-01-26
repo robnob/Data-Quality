@@ -52,7 +52,15 @@ La criticalité de la data peut être evalué selon si elle est demandé par:
   <li>Opérations currents</li>
   <li>La direction à la estratégie</li>
 </ul>
+
 #### 1.4.3.- Dimensions de la DQ
+Le term "dimension" est utilisé pour la rélier à une mesure physique, c'est une caracteristique mesurable de la data. 15 dimensions dans 4 différents categories:
+<ul>
+  <li>DQ Intrinsique:</li>
+  <li>Contextual:</li>
+  <li>DQ Representationel:</li>
+  <li>DQ d'acdesibilité:</li>
+</ul>
 #### 1.4.4.- Metadata
 #### 1.4.5.- ISO Standard
 #### 1.4.6.- Cycle de Vie
