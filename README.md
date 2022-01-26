@@ -9,6 +9,7 @@ Data Quality Chapter DM-BOK
 Une série d'acronyms seront utilisés dans tout le corpus de ce document:
 <ul>
   <li>DQ: Qualité de la donnée (Data Quality)</li>
+  <li>DP: Processus de la donnée (Data Processing)</li>
 </ul>
 
 
@@ -40,6 +41,8 @@ La planification, implémentation et contrôle des activités qui appliquent des
 
 ### 1.4.- Concepts essentiels
 #### 1.4.1.- Qualité de la donnée
+La data est considerée de haute qualité si elle répond aux attentes des consommateurs. 
+Il faut faire la différence entre qualité haute/basse et les activités/efforts de DQ
 #### 1.4.2.- Donnée critique
 #### 1.4.3.- Dimensions de la DQ
 #### 1.4.4.- Metadata
@@ -52,6 +55,14 @@ La planification, implémentation et contrôle des activités qui appliquent des
 ##### 1.4.8.3.- Traitement
 ##### 1.4.8.4.- Design du système
 ##### 1.4.8.5.- Correction des problèmes
+#### 1.4.9.- Profilage de la donnée
+#### 1.4.10.- DQ et DP
+##### 1.4.10.1.- Nettoyage des données
+##### 1.4.10.2.- Enrichissement de la donnée
+##### 1.4.10.3.- Formatage et "parsing" de la donnée
+##### 1.4.10.4.- Transformation et Standardisation
+
+
 
 
 
