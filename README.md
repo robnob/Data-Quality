@@ -22,13 +22,13 @@ La planification, implémentation et contrôle des activités qui appliquent des
   <li>Criticité: centré sur les données les plus critiques</li>
   <li>Gestion du cycle de vie: données gerés depuis leur création et jusqu'à disponibilité</li>
   <li>Prevention: d'erreurs et conditions que reducent l'usabilité de la donnée</li>
-  <li>Correction d'erreurs d'origin: corriger </li>
-  <li>Governance</li>
-  <li>Conduit par les standards</li>
-  <li>Mesure objetive et transparence</li>
-  <li>Induit dans le process du business</li>
-  <li>Reinforcé systematiquement</li>
-  <li>Connecté aux niveaux de services</li>
+  <li>Correction d'erreurs d'origin: comprendre les erreurs de base et les corriger</li>
+  <li>Governance: clair reglés d'administration de la donnée</li>
+  <li>Conduit par les standards: qui soient mesurables</li>
+  <li>Mesure objective et transparence: et consistente à partager avec les intervenants car ils sont les arbitres de la qualité</li>
+  <li>Incorporé dans le process du business:La qualité de la donnée est responsabilité des propriétaires des processus</li>
+  <li>Reinforcé systematiquement: Les gestionaires du système doivent renforcer la qualité de la donnée</li>
+  <li>Connecté aux niveaux de services: les reports de qualité et des problèmes doivent être ajoutés dansle SLA (Service Level Agreement)</li>
 </ul>
     
 
