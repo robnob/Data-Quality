@@ -4,6 +4,7 @@ Data Quality Chapter DM-BOK
 <p align="center">
   <img src=https://github.com/robnob/Data-Quality/blob/main/Framework.PNG width="600" title="hover text">
 </p>
+
 ## 1.- Introduction
 
 Une série d'acronyms seront utilisés dans tout le corpus de ce document:
@@ -57,10 +58,17 @@ La criticalité de la data peut être evalué selon si elle est demandé par:
 Le term "dimension" est utilisé pour la rélier à une mesure physique, c'est une caracteristique mesurable de la data. 15 dimensions dans 4 différents categories:
 <ul>
   <li>DQ Intrinsique:</li>
+    <ul>
+      <li>Exactitud</li>
+      <li>Objectivité</li>
+      <li>Credibilité</li>
+      <li>Reputation</li>
+    </ul>
   <li>Contextual:</li>
   <li>DQ Representationel:</li>
-  <li>DQ d'acdesibilité:</li>
+  <li>DQ d'accesibilité:</li>
 </ul>
+
 #### 1.4.4.- Metadata
 #### 1.4.5.- ISO Standard
 #### 1.4.6.- Cycle de Vie
