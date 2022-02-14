@@ -55,7 +55,7 @@ La criticalité de la data peut être evalué selon si elle est demandé par:
 </ul>
 
 #### 1.4.3.- Dimensions de la DQ
-Le term "dimension" est utilisé pour le rélier à une mesure physique, c'est une caracteristique mesurable de la data.
+Le term "dimension" est utilisé pour le rélier à une mesure physique, c'est une caracteristique mesurable de la data. Les dimensions sont des characteristiques qui peuvent être mesurables objectivement
 
 Il y a plusieurs approches:
 
@@ -66,6 +66,8 @@ Il y a plusieurs approches:
 </ul>
 
 Voici la version du DAMA UK 2013:
+
+Peut importe le nom utilisé, les dimensions se focalisent en s'il y a sufisament de données (completitude), s'ils sont corrects (exactitude, validité), s'ils vont ensemble ( consistence, integrité, unicité), s'ils sont à jour(opportunité), accesibles, utilisables er secures.
 <ul>
   <li>Completitude: la proportion de la donné stocké contre le potentiel 100%</li>
   <li>Unicité: aucune entité serait enregistré plus d'une fois basé sur comment elle est identifiée</li>
@@ -76,6 +78,10 @@ Voici la version du DAMA UK 2013:
 </ul>
 
 #### 1.4.4.- Metadata
+
+Pendant que la qualité de la donnée parle à propos de remplir les expectatives, la metadata
+
+
 #### 1.4.5.- ISO Standard
 #### 1.4.6.- Cycle de Vie
 #### 1.4.7.- Types de régles
