@@ -55,13 +55,23 @@ La criticalité de la data peut être evalué selon si elle est demandé par:
 </ul>
 
 #### 1.4.3.- Dimensions de la DQ
-Le term "dimension" est utilisé pour la rélier à une mesure physique, c'est une caracteristique mesurable de la data:
+Le term "dimension" est utilisé pour le rélier à une mesure physique, c'est une caracteristique mesurable de la data.
+
+Il y a plusieurs approches:
+
+<ul>
+  <li>Framework Strong-Wang: 4 categories : Intrinsique, Contextuel, Representationel, Accesibilité(1996)</li>
+  <li>Thomas Redman (1996): 3 categorie: Model, Valeur et répresentation</li>
+  <li>Larry English (1999): 2 categories:  inherent et pragmatique </li>
+</ul>
+
+Voici la version du DAMA UK 2013:
 <ul>
   <li>Completitude: la proportion de la donné stocké contre le potentiel 100%</li>
   <li>Unicité: aucune entité serait enregistré plus d'une fois basé sur comment elle est identifiée</li>
   <li>Opportunité: le degrée de répresentation de la donnée à une date quelconque</li>
   <li>Validité: la donnée est valide si elle est conforme à la syntax décrite dans sa définition</li>
-  <li>Exactitud: le degré auquel la donnée décrit correctement le "monde réel"</li>
+  <li>Exactitude: le degré auquel la donnée décrit correctement le "monde réel"</li>
   <li>Consistence: l'absence de différence en comparant deux ou plus de répreentations d'un objet contre sa définition</li> 
 </ul>
 
